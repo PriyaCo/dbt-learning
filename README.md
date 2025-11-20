@@ -1,1 +1,6 @@
 # dbt-learning
+
+This repo is for my hands-on practice with dbt, Git, Github, and VS Code
+
+- Day 1: Learn basic git workflow
+- Day 2: More commands and branching
